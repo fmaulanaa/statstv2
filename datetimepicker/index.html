@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta http-equiv="contidt-type" contidt="text/html; charset=utf-8"/>
+<link rel="stylesheet" type="text/css" href="./jquery.datetimepicker.css"/>
+<style type="text/css">
+
+.custom-date-style {
+	background-color: red !important;
+}
+
+.input{	
+}
+.input-wide{
+	width: 500px;
+}
+
+</style>
+</head>
+<body>
+	<h3>Dark theme</h3>
+	<input type="text" id="datetimepicker_dark"/>
+	
+</body>
+<script src="./jquery.js"></script>
+<script src="build/jquery.datetimepicker.full.js"></script>
+<script>/*
+window.onerror = function(errorMsg) {
+	$('#console').html($('#console').html()+'<br>'+errorMsg)
+}*/
+
+$('#datetimepicker_dark').datetimepicker({
+
+theme:'dark'})
+
+
+
+</script>
+</html>
