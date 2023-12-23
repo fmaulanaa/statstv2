@@ -4,7 +4,8 @@ Ini adalah pengembangan aplikasi berbasis web yang dirancang untuk mengelola dat
 
 
 Video Tutorial Aplikasi Statistik
-https://github.com/fmaulanaa/statstv2/assets/692088/45a98d38-06d6-41b5-9084-18c9112da973
+[https://github.com/fmaulanaa/statstv2/assets/692088/45a98d38-06d6-41b5-9084-18c9112da973]
+(https://github.com/fmaulanaa/statstv2/assets/692088/f73e3e1b-4729-4a39-a1fc-0e072ef4f548)
 
 
 Screenshot Web Application
@@ -32,9 +33,9 @@ Screenshot Web Application
 
 
 Social Media Web Developer
-https://twitter.com/fmaulanaa
-https://www.facebook.com/fmaulanaa
-https://github.com/fmaulanaa
-https://www.instagram.com/fmaulanaa
+X https://twitter.com/fmaulanaa
+FB https://www.facebook.com/fmaulanaa
+Github https://github.com/fmaulanaa
+IG https://www.instagram.com/fmaulanaa
 
 
