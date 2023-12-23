@@ -16,3 +16,5 @@ Screenshot Web Application
 ![9](https://github.com/fmaulanaa/statstv2/assets/692088/78ee13fd-659f-4ddc-ac12-6fe7d74a96ea)
 ![report 1](https://github.com/fmaulanaa/statstv2/assets/692088/96cefbc4-fde0-4610-bd51-f7e3e5cbf0b6)
 ![report 2](https://github.com/fmaulanaa/statstv2/assets/692088/8f1896c3-75d8-4a96-9529-911050dbd6a5)
+
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAzywxI6tKU?si=muCCi8KN1VJgMmOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](url)
